@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="ejercicio1b.css" ?>
+<!-- ejercicio1b.xml  AD17006 -->
+<fichero>
+<info>Ejercicio1b.xml</info>
+<ficha id="1" fechaingreso="1/11/2012">
+<nombre>Antonio</nombre>
+<separador>,</separador>
+<apellido>Barbero</apellido>
+<separador>,</separador>
+<direccion>Calle de Los Andes, 45</direccion>
+</ficha>
+<br></br>
+
+<ficha id="2" fechaingreso="1/11/2012">
+<nombre>Cristian Rodolfo</nombre>
+<separador>,</separador>
+<apellido>Alvarez Dominguez</apellido>
+<separador>,</separador>
+<carnet>ad17006</carnet>
+<separador>,</separador>
+<telefono cod-pais="503">2250-5555</telefono>
+<separador>,</separador>
+<correo proveedor="google" tipo-correo="educacional">ad17006@ues.edu.sv</correo>
+<separador>,</separador>
+<a href="https://github.com/cristianrodolfoalvarez">perfil de Github</a>
+<separador>,</separador>
+<direccion>Calle de Los Andes, 45</direccion>
+<separador>,</separador>
+</ficha>
+<br></br>
+
+<ficha id="3" fechaingreso="1/11/2012">
+<nombre>Cristian Rodolfo</nombre>
+<separador>,</separador>
+<apellido>Alvarez Dominguez</apellido>
+<separador>,</separador>
+<carnet>ad17006</carnet>
+<separador>,</separador>
+<telefono cod-pais="503">2250-5555</telefono>
+<separador>,</separador>
+<correo proveedor="google" tipo-correo="educacional">ad17006@ues.edu.sv</correo>
+<separador>,</separador>
+<a href="https://github.com/cristianrodolfoalvarez">perfil de Github</a>
+<separador>,</separador>
+<direccion>Calle de Los Andes, 45</direccion>
+<separador>,</separador>
+<dui>01023443-5</dui>
+<separador>,</separador>
+<isss>3736-2774-232-4</isss>
+<separador>,</separador>
+<afp>8382-2842-2421-1</afp>
+</ficha>
+</fichero>

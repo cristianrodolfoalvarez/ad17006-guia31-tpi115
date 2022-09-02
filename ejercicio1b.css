@@ -1,0 +1,4 @@
+/* ejercicio1b.css   AD17006*/
+fichero, ficha {background-color:blue; display:block;} 
+nombre, apellido, carnet, telefono, correo, isss, dui, afp, a {color:white; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}

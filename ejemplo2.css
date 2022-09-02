@@ -1,0 +1,5 @@
+/* ejemplo1.css   AD17006 */
+pais {background-color:yellow;}
+departamento {background-color:green; display:block;} 
+habitantes, altura {color:white; display:inline;} 
+cabecera {color:yellow;font-size:1cm; display:none;}

@@ -1,0 +1,10 @@
+/* ejercicio2a.css   AD17006*/
+pais {background-color: lightgreen; display:block;} 
+departamento cabecera, habitantes, altura {color: black; display:inline;}
+
+pais[nombre]::after {content: "Nombre del pais: "attr(nombre)" - Moneda utilizada: "attr(moneda)
+" ($) - Codigo telefonico de area: "attr(cod-telefonico)" - Idioma oficial: "attr(idioma-oficial)
+" - Extension territorial: "attr(area-territorial)" metros cuadrados.";color:green;font-weight:bold;};
+
+/*pais departamento[nombre]::after {content: "Nombre del departamento: "attr(nombre);};*/
+/*No supe como imprimir las etiquetas que estaban dentro de pais, etiquetas como departamento y habitantes.-.*/

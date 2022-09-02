@@ -1,0 +1,4 @@
+/* ejercicio1a.css   AD17006*/
+fichero, ficha {background-color:red; display:block;} 
+nombre, apellido, carnet, telefono, correo, a {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:none;}

@@ -1,0 +1,83 @@
+{
+	"fichero":{
+		"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"separador":[
+					",",
+					","
+				],
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Cristian Rodolfo",
+				"separador":[
+					",",
+					",",
+					",",
+					",",
+					",",
+					",",
+					","
+				],
+				"apellido":"Alvarez Dominguez",
+				"carnet":"ad17006",
+				"telefono":{
+					"@cod-pais":"503",
+					"#text":"2250-5555"
+				},
+				"correo":{
+					"@proveedor":"google",
+					"@tipo-correo":"educacional",
+					"#text":"ad17006@ues.edu.sv"
+				},
+				"a":{
+					"@href":"https://github.com/cristianrodolfoalvarez",
+					"#text":"perfil de Github"
+				},
+				"direccion":"Calle de Los Andes, 45"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Cristian Rodolfo",
+				"separador":[
+					",",
+					",",
+					",",
+					",",
+					",",
+					",",
+					",",
+					",",
+					","
+				],
+				"apellido":"Alvarez Dominguez",
+				"carnet":"ad17006",
+				"telefono":{
+					"@cod-pais":"503",
+					"#text":"2250-5555"
+				},
+				"correo":{
+					"@proveedor":"google",
+					"@tipo-correo":"educacional",
+					"#text":"ad17006@ues.edu.sv"
+				},
+				"a":{
+					"@href":"https://github.com/cristianrodolfoalvarez",
+					"#text":"perfil de Github"
+				},
+				"direccion":"Calle de Los Andes, 45",
+				"dui":"01023443-5",
+				"isss":"3736-2774-232-4",
+				"afp":"8382-2842-2421-1"
+			}
+		],
+		"br":null
+	}
+}
